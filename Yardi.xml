@@ -1,19 +1,11 @@
-<site-list version="1">
+<site-list version="11">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>11.0.0.0</version>
-    <date-created>03/25/2020 22:36:26</date-created>
+    <date-created>03/25/2020 23:05:50</date-created>
   </created-by>
-  <site url="https//www.yardiasptx11.com/44210tomlinson/pages/LoginAdvanced.aspx">
+  <site url="yardiasptx11.com">
     <compat-mode>Default</compat-mode>
-    <open-in allow-redirect="true">MSEdge</open-in>
-  </site>
-  <site url="www.yardiasptx11.com">
-    <compat-mode>Default</compat-mode>
-    <open-in allow-redirect="true">MSEdge</open-in>
-  </site>
-  <site url="www.yardiasptx11.com/*">
-    <compat-mode>Default</compat-mode>
-    <open-in allow-redirect="true">MSEdge</open-in>
+    <open-in allow-redirect="true">IE11</open-in>
   </site>
 </site-list>
