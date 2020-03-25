@@ -1,0 +1,11 @@
+<site-list version="1">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>11.0.0.0</version>
+    <date-created>03/21/2020 23:41:14</date-created>
+  </created-by>
+  <site url="yardiasptx11.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>None</open-in>
+  </site>
+</site-list>
