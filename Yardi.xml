@@ -8,4 +8,8 @@
     <compat-mode>Default</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
+  <site url="yardiresidentscreening.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>  
 </site-list>
