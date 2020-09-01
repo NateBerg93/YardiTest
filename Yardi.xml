@@ -12,4 +12,8 @@
     <compat-mode>Default</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>  
+  <site url="yardiasp.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>  
 </site-list>
